@@ -443,9 +443,9 @@ You must:
 1. Modify the code block below so that it contains the output of the command below
     ```
     $ qwen 'what is .bashrc?'
-`.bashrc` is a hidden file in the root of your home directory that contains configuration settings, shell functions, and aliases for the Bash shell on Linux and macOS. It is automatically executed each time you open a new terminal session, allowing you to customize your command-line environment.
 
-    ```
+    `.bashrc` is a hidden file in the root of your home directory that contains configuration settings, shell functions, and aliases for the Bash shell on Linux and macOS. It is automatically executed each time you open a new terminal session, allowing you to customize your command-line environment.
+```
 
 1. Push your changes to github.
 
